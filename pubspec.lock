@@ -168,6 +168,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.4.1"
+  tapped_lints:
+    dependency: "direct dev"
+    description:
+      path: "."
+      ref: master
+      resolved-ref: "25ffd359a1e15e52495db6a852e005c60d515a71"
+      url: "https://github.com/tappeddev/tapped_lints.git"
+    source: git
+    version: "2.0.0+2"
   term_glyph:
     dependency: transitive
     description:
