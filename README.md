@@ -1,3 +1,7 @@
+# Demo of implementation (iPhone Simulator)
+
+https://github.com/user-attachments/assets/1debf238-dd8f-4074-b919-41149f38d7e4
+
 # interview_test_project
 
 *First of all, it's awesome that you are reading this introduction because that means, that you had your first successful interview. As a next step, we will check your Flutter skills, your knowledge, and how you solve problems.*
@@ -10,7 +14,9 @@ To ensure that there is a strong linter, you should use the strong linter [tappe
 
 ## Task
 
-The design shows a list of books with a search bar at the top. When you start searching the overlay expands and shows the results. The list of the "continue" and the "New" section are mocked for now on. 
+The design shows
+
+ a list of books with a search bar at the top. When you start searching the overlay expands and shows the results. The list of the "continue" and the "New" section are mocked for now on. 
 Covers need to be fetched by [picsum](https://picsum.photos/) for finding example photos for book covers.
 The search is currently implemented by [university-domains-list](https://github.com/Hipo/university-domains-list) for searching "Book names". 
 ⚠️ We are working on a Google could function that could handle the search in the future. 
