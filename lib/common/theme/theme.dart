@@ -64,7 +64,7 @@ final Color customPrimaryColor = const Color(
 ); // HEX for (92, 94, 166)
 
 final MaterialColor customPrimarySwatch =
-    MaterialColor(customPrimaryColor.value, <int, Color>{
+    MaterialColor(customPrimaryColor.toARGB32(), <int, Color>{
       50: const Color(0xFFEDEEF6),
       100: const Color(0xFFD2D4E9),
       200: const Color(0xFFB4B7DB),

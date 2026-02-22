@@ -23,11 +23,11 @@ Following features should be included:
 - [x] "Continue" section can scroll horizontally
 - [x] The `ListView` should build items lazy by using `ListView.builder`
 - [ ] Items should have touch feedback, but no navigation
-- [ ] When the search results appear, the overlay expands and reveals the items
-- [ ] When the user taps outside of the overlay, the overlay closes
-- [ ] The search should start automatically after 350 milliseconds, whenever the user stops adding new characters into the text field. 
-- [ ] Whenever the search doesn't contain any result an empty state info will be displayed
-- [ ] When the user clears the text, the overlay closes as well
+- [x] When the search results appear, the overlay expands and reveals the items
+- [x] When the user taps outside of the overlay, the overlay closes
+- [x] The search should start automatically after 350 milliseconds, whenever the user stops adding new characters into the text field. 
+- [x] Whenever the search doesn't contain any result an empty state info will be displayed
+- [x] When the user clears the text, the overlay closes as well
 - [x] Bottom navigation bar does nothing on tap (only visuals)
 - [x] Light & Dark theme is possible and switch automatically when changing the device theme
 
