@@ -16,20 +16,20 @@ The search is currently implemented by [university-domains-list](https://github.
 ⚠️ We are working on a Google could function that could handle the search in the future. 
 
 Following features should be included:
-- [ ] Setup and use [FVM](https://fvm.app/)
-- [ ] [tapped_lints](https://github.com/tappeddev/tapped_lints) is included 
-- [ ] Create a list with a few book items that can be used for the different sections and the search
-- [ ] "Continue" and "New" sections are in one list that is scrollable vertically
-- [ ] "Continue" section can scroll horizontally
-- [ ] The `ListView` should build items lazy by using `ListView.builder`
+- [x] Setup and use [FVM](https://fvm.app/)
+- [x] [tapped_lints](https://github.com/tappeddev/tapped_lints) is included 
+- [x] Create a list with a few book items that can be used for the different sections and the search
+- [x] "Continue" and "New" sections are in one list that is scrollable vertically
+- [x] "Continue" section can scroll horizontally
+- [x] The `ListView` should build items lazy by using `ListView.builder`
 - [ ] Items should have touch feedback, but no navigation
 - [ ] When the search results appear, the overlay expands and reveals the items
 - [ ] When the user taps outside of the overlay, the overlay closes
 - [ ] The search should start automatically after 350 milliseconds, whenever the user stops adding new characters into the text field. 
 - [ ] Whenever the search doesn't contain any result an empty state info will be displayed
 - [ ] When the user clears the text, the overlay closes as well
-- [ ] Bottom navigation bar does nothing on tap (only visuals)
-- [ ] Light & Dark theme is possible and switch automatically when changing the device theme
+- [x] Bottom navigation bar does nothing on tap (only visuals)
+- [x] Light & Dark theme is possible and switch automatically when changing the device theme
 
 
 ## Design & Resources
